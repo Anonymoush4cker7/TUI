@@ -34,7 +34,6 @@ cd $HOME
 cd /data/data/com.termux/files/usr/etc
 rm -rf tord
 rm -rf bash.bashrc
-cd $HOME/TUI/main
 cp /$HOME/TUI/main/bash.bashrc /data/data/com.termux/files/usr/etc
 clear
 
