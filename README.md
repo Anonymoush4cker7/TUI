@@ -1,30 +1,23 @@
-#TUI
+# TUI
 Customize termux banner
 # ABOUT
-if you are thinking that customize termux default banner/UI with colourful text & font so this tool is made for you
+If you are thinking that customize termux default banner/UI with colourful text & font so this tool is made for you
 # INSTALLATION
 $ apt update
-'''
-'''
+
 $ apt upgrade
-'''
-'''
+
 $ git clone https//:github.com/Anonymoush4cker7/tui
-'''
-'''
+
 # USAGE
 $ ls
-'''
-'''
+
 $ cd tui
-'''
-'''
+
 $ ls
-'''
-'''
+
 $ chmod +x setup
-'''
-'''
+
 $ ./setup
 # Subscribe our channel on youtube
 https://bit.ly/2USjTfO
