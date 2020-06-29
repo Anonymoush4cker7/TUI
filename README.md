@@ -10,7 +10,7 @@ $ apt update
 
 $ apt upgrade
 
-$ git clone https//:github.com/Anonymoush4cker7/TUI
+$ git clone https://github.com/Anonymoush4cker7/TUI
 
 # USAGE
 $ ls
