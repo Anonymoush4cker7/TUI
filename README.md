@@ -7,12 +7,12 @@ $ apt update
 
 $ apt upgrade
 
-$ git clone https//:github.com/Anonymoush4cker7/tui
+$ git clone https//:github.com/Anonymoush4cker7/TUI
 
 # USAGE
 $ ls
 
-$ cd tui
+$ cd TUI
 
 $ ls
 
