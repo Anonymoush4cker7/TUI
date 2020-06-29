@@ -19,9 +19,9 @@ $ cd TUI
 
 $ ls
 
-$ chmod +x setup
+$ chmod +x setup.sh
 
-$ ./setup
+$ bash setup.sh
 * If you want customize this banner as per your mind so edit "bash.bashrc" file in main folder from nano text editor 
 # Subscribe our channel on youtube
 https://bit.ly/2USjTfO
