@@ -3,6 +3,7 @@ Customize termux banner
 # ABOUT
 If you are thinking that customize termux default banner/UI with colourful text & font so this tool is made for you
 ![IMG_20200629_174032](https://user-images.githubusercontent.com/65849213/86003619-b4563800-ba2f-11ea-98df-37b3be0d7f0d.jpg)
+)
 
 # INSTALLATION
 $ apt update
