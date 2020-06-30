@@ -16,6 +16,12 @@ $ apt update
 $ apt upgrade
 ```
 ```
+$ apt install git
+```
+```
+apt install nano
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/TUI
 ```
 
@@ -42,6 +48,12 @@ $ apt update
 ```
 ```
 $ apt upgrade
+```
+```
+$ apt install git
+```
+```
+apt install nano
 ```
 ```
 $ git clone https://github.com/Anonymoush4cker7/TUI
