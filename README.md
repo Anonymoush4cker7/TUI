@@ -7,40 +7,62 @@ If you are thinking that customize termux default banner/UI with colourful text 
 # TUI Is Available For
 * Termux
 * Kali linux
+
 # Termux Installation
+```
 $ apt update
-
+```
+```
 $ apt upgrade
-
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/TUI
+```
 
 # Usage
+```
 $ ls
-
+```
+```
 $ cd TUI
-
+```
+```
 $ ls
-
+```
+```
 $ chmod +x setup.sh
-
+```
+```
 $ bash setup.sh
+```
+
 # Kali Installation
+```
 $ apt update
-
+```
+```
 $ apt upgrade
-
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/TUI
+```
 
 # Usage
+```
 $ ls
-
+```
+```
 $ cd TUI
-
+```
+```
 $ ls
-
+```
+```
 $ chmod +x kali.sh
-
+```
+```
 $ bash kali.sh
+```
 
 * If you want customize this banner as per your mind so edit "bash.bashrc" file in main folder from nano text editor 
 # Subscribe our channel on youtube
