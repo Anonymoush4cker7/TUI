@@ -22,6 +22,12 @@ $ apt install git
 $ apt install nano
 ```
 ```
+$ apt install Python
+```
+```
+$ pip install lolcat
+```
+```
 $ git clone https://github.com/Anonymoush4cker7/TUI
 ```
 
